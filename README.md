@@ -7,7 +7,7 @@ This is a flashcard when you click on it the answers pop up
 
 ### App Walk-though
 
-<img src="https://imgflip.com/gif/6u0c9i" width=200><br>
+<img src="https://imgur.com/aEMObh8" width=200><br>
 
 
 ## Required
